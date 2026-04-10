@@ -55,51 +55,41 @@ education:
       icon: hero/arrow-down-tray
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Студентка НПИбд-02-25
+    org: РУДН
+    start: 2025-09-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Получене высшего образования в сфере  IT
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 skills:
-  - name: Technical Skills
+  - name: Технические навыки
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+        level: 3
+      - label: C++
         level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+  - name: Творческие навыки
+    items: 
+      - label: Веб-дизайн
         level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Монтаж
+        level: 3
 
 languages:
-  - name: English
+  - name: Русский
     level: 5
-    label: Native
-  - name: Spanish
+    label: Носитель
+  - name: Английский
     level: 4
-    label: Fluent
+    label: Уровень B1-B2
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Окончание школы с отличием
+    awarder: Средняя школа 7
+    date: "2025-05-01"
+    summary: Награждена красными аттестатами за 9 и 11 классы за окончание обучения с отличием
     icon: hero/trophy
