@@ -3,14 +3,11 @@ title: Прохождение курса «Введение в Linux» на Step
 date: 2025-04-01
 summary: Подробное описание прохождения курса «Введение в Linux» на Stepik
 links:
-  - type: site
+  - type: Ссылка на сам курс
     url: https://stepik.org/course/73/
 tags:
   - Linux
   - Stepik
-  - Bash
-  - Vim
-  - Gnuplot
 ---
 
 # Проект: освоение Linux на платформе Stepik
